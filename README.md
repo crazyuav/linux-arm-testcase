@@ -8,3 +8,5 @@ scpi_vxi_tmc: lxi and tmc测试程序
 
 branch test!
 git diff:region test!
+
+etc merge!test
