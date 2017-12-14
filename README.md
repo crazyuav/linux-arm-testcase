@@ -7,4 +7,4 @@ vxi11_server:vxi11 server test!
 scpi_vxi_tmc: lxi and tmc测试程序
 
 branch test!
-git diff:region test!
+git diff:region test!&merge again
